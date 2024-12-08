@@ -7,7 +7,6 @@ from sklearn.model_selection import train_test_split
 
 GLOBAL_PATH = './data/'
 TRAIN_DATASET_SAMPLE = "train_df_sample.csv"
-TRAIN_DATASET = "train_df.csv"
 
 @st.cache_data()
 def load_data():
