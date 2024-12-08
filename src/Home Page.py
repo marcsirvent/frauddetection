@@ -3,6 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+#streamlit run "./src/Home Page.py"
+
 # Title and Introduction
 st.title("Project AV: Fraud Detection System Using Data Visualization and Machine Learning")
 
