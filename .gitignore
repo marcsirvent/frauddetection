@@ -1,3 +1,4 @@
 environment/
 data/
 .venv/
+final_model.pkl
